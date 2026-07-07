@@ -2,32 +2,32 @@ import { Search } from "lucide-react";
 
 const gallery = [
   {
-    image: "public/images/gallery/project12.jpg",
+    image: "/images/gallery/project12.jpg",
     title: "Security Installation",
     category: "Security",
   },
   {
-    image: "public/images/gallery/project6.jpeg",
+    image: "/images/gallery/project6.jpeg",
     title: "CCTV Surveillance",
     category: "Technology",
   },
   {
-    image: "public/images/gallery/project1.jpeg",
+    image: "/images/gallery/project1.jpeg",
     title: "Construction Project",
     category: "Construction",
   },
   {
-    image: "public/images/gallery/project11.jpeg",
+    image: "/images/gallery/project11.jpeg",
     title: "Automation Systems",
     category: "Automation",
   },
   {
-    image: "public/images/gallery/project8.jpeg",
+    image: "/images/gallery/project8.jpeg",
     title: "Networking Infrastructure",
     category: "IT Solutions",
   },
   {
-    image: "public/images/gallery/project9.jpeg",
+    image: "/images/gallery/project9.jpeg",
     title: "Software Development",
     category: "Technology",
   },
